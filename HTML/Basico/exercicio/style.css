@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(230, 225, 248);
+}
+blockquote{
+  text-align: center;
+  letter-spacing: .5px;
+}
+.text{
+  line-height: 24px;
+  margin: auto;
+  width: 1000px;
+  text-align: justify;
+  text-indent: 25px;
+}
+
+table, th, td {
+  border: 1px solid black ;
+  border-collapse: collapse; 
+}
+.tabela{
+  display: flex;
+  justify-content: center;
+}
+
+footer{
+  font-size:12px;
+}
+
+
+
+
