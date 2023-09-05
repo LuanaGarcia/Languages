@@ -10,7 +10,7 @@ Repositório para armazenar resumos sobre o curso de introdução a HTML5 da [**
 
 | Aulas | Resumos |
 |-------|---------|
-| Semântica | [Resumos](Resumo/Resumo.md) |
+| Semântica | [Resumos](Basico/Resumo/Resumo.md) |
 ---------------------
 
 
