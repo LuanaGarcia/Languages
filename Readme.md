@@ -14,4 +14,4 @@ Repositório para armazenar resumos e manual de uso de linguagens de programaç�
 
 
 __________
-Fonte dos icones: https://devicon.dev/
+Fonte dos icones: [DevIcon](https://devicon.dev/)
