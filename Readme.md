@@ -6,8 +6,8 @@ Repositório para armazenar resumos e manual de uso de linguagens de programaç�
 
 | Logo | Linguagem |
 |-------|---------|
-| HTML | [HTML](HTML/Basico/) |
-|------|--------------------------|
-| Java | [Java](Java/SintaxJava/) |
+| HTML | [HTML](Linguagens/HTML/) |
+| Java | [Java](Linguagens/Java/) |
+| Java | [Java](Linguagens/JavaScript/) |
 
 ---------------------
