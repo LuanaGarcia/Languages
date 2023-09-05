@@ -8,6 +8,6 @@ Repositório para armazenar resumos e manual de uso de linguagens de programaç�
 |-------|---------|
 | HTML | [HTML](Linguagens/HTML/) |
 | Java | [Java](Linguagens/Java/) |
-| Java | [Java](Linguagens/JavaScript/) |
+| JavaScript | [JavaScript](Linguagens/JavaScript/) |
 
 ---------------------

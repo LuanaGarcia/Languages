@@ -8,4 +8,4 @@ Repositório para armazenar resumos sobre o curso de JavaScript básico da [**Di
 
 | Aulas | Resumos |
 |-------|---------|
-| Anatomia das Classes - Java | [Resumos](Resumo.md) |
+| JavaScript | [Resumos](JS/Resumo.md) |

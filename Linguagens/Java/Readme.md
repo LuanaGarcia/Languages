@@ -8,4 +8,4 @@ Repositório para armazenar resumos sobre o curso Formação Java Developer da [
 
 | Aulas | Resumos |
 |-------|---------|
-| Anatomia das Classes - Java | [Resumos](Classes.md) |
+| Anatomia das Classes - Java | [Resumos](SintaxJava/Classes.md) |
