@@ -67,11 +67,14 @@ Representa um parágrafo, mas ele não suporta apenas texto, podemos adicionar i
 
 ***Formatação***
 
-## \<i>\</i>
+## \<em>\</em>
  Formata textos em itálico.
 
 ## \<u>\</u>
 Formata texto em sublinhado.
+
+## \<strike>\</strike>
+Utilizado para indicar que um texto foi suprimido, apesar de, aparecer riscado, para que o leitor tenha ciência da ocorrência.
 
 ## \<br>\</br>
 Utilizadas para quebra de linha em um texto. É mais comum a utilização da tag fechada <./br> pois ela é suportada tanto em HTML quanto XHTML.
