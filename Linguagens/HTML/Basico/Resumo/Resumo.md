@@ -147,4 +147,4 @@ Utilizada para a importação de um documento Javascript para interações do la
 
 # Tag HTML para recebimento de dados
 ## \<input type=”text”> | \<input type=”email”> | \<input type=”Submit”>
-Tags do tipo \<input> são utilizadas para o recebimento de dados do usuário, possuindo diferença entre elas como o tipo do atributo que irá receber (type). Ex.: <input>
+Tags do tipo \<input> são utilizadas para o recebimento de dados do usuário, possuindo diferença entre elas como o tipo do atributo que irá receber (type).
