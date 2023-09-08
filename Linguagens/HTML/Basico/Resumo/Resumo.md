@@ -122,3 +122,12 @@ permite inserir imagens na página web e não possui fechamento, contendo apenas
  ***src=""*** é onde fica o link da imagem.       
  ***alt=""*** nome que aparecerá caso a imagem não carregue (é utilizado para descrever o conteúdo de uma imagem.)
 
+## \<audio src="" alt="">\</audio>
+Utilizada para definir sons como música ou outros tipos de áudio. O HTML5 suporta mp3, onda e ogg.      
+***src=""*** é onde fica o link do audio.       
+***alt=""*** nome que aparecerá caso o audio não carregue, (é utilizado para descrever o conteúdo do audio.)
+
+## \<video  src="" alt="">\</video>
+Usada para importação de arquivos de vídeo. HTML suporta três formatos de vídeos compatíveis com essa tag (mp4, webM e ogg).      
+***src=""*** é onde fica o link do vídeo.       
+***alt=""*** nome que aparecerá caso o audio não carregue, (é utilizado para descrever o conteúdo do vídeo.)
