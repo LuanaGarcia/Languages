@@ -130,4 +130,21 @@ Utilizada para definir sons como música ou outros tipos de áudio. O HTML5 supo
 ## \<video  src="" alt="">\</video>
 Usada para importação de arquivos de vídeo. HTML suporta três formatos de vídeos compatíveis com essa tag (mp4, webM e ogg).      
 ***src=""*** é onde fica o link do vídeo.       
-***alt=""*** nome que aparecerá caso o audio não carregue, (é utilizado para descrever o conteúdo do vídeo.)
+***alt=""*** nome que aparecerá caso o audio não carregue, (é utilizado para descrever o conteúdo do vídeo).
+
+# Comentário
+
+## \<!-- Comentário -->
+Cria um comentário em qualquer parte do código-fonte. Útil para orientar pessoas em modificações futuras. Ou para relembrar sobre como cada linha funciona.
+
+# Estilos e Scripts
+
+## \<style>\</style>
+Define o estilo de parte ou de todo o conteúdo da página web com arquivo .css importado.
+
+## \<script>\</script>
+Utilizada para a importação de um documento Javascript para interações do lado cliente com conteúdo dinâmico.
+
+# Tag HTML para recebimento de dados
+## \<input type=”text”> | \<input type=”email”> | \<input type=”Submit”>
+Tags do tipo \<input> são utilizadas para o recebimento de dados do usuário, possuindo diferença entre elas como o tipo do atributo que irá receber (type). Ex.: <input>
