@@ -20,13 +20,13 @@
 ## \<!DOCTYPE html>
 Diz ao navegador que ele está lidando com um arquivo do tipo HTML5
 
-## \<html>
+## \<html>\</html>
 A tag html é a raiz do seu documento, todos os elementos HTML devem estar dentro dela. E nela nós informamos ao navegador qual é o idioma desse nosso documento, através do atributo lang, para o português brasileiro usamos pt-BR. (\<html lang="pt-br">)
 
-## \<head>
+## \<head>\</head>
 Contém elementos que serão lidos pelo navegador, como os metadados - um exemplo é o charset, que é a codificação de caracteres e a mais comum é a UTF-8, o JavaScript com a tag script, o CSS através das tags style e link
 
-## \<body>
+## \<body>\</body>
 Dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, imagens, vídeos.
 
 ---
@@ -35,20 +35,23 @@ Dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, imag
 # ***Semântica***
 A semântica nos permite descrever mais precisamente o nosso conteúdo, agora um bloco de texto não é apenas uma div, agora é um article e tem mais significado assim.
 
-## \<section>
+## \<section>\</section>
 Representa uma seção genérica de conteúdo quando não houver um elemento mais específico para isso.
 
-## \<header>
+## \<header>\</header>
 É o cabeçalho da página ou de uma seção da página e normalmente contém logotipos, menus, campos de busca.
 
-## \<article>
+## \<article>\</article>
 Representa um conteúdo independente e de maior relevância dentro de uma página, como um post de blog, uma notícia em uma barra lateral ou um bloco de comentários. Um article pode conter outros elementos, como header, cabeçalhos, parágrafos e imagens.
 
-## \<aside>
+## \<aside>\</aside>
 É uma seção que engloba conteúdos relacionados ao conteúdo principal, como artigos relacionados, biografia do autor e publicidade. Normalmente são representadas como barras laterais.
 
-## \<footer>
+## \<footer>\</footer>
 Esse elemento representa o rodapé do conteúdo ou de parte dele, pois ele é aceito dentro de vários elementos, como article e section e até do body. Exemplos de conteúdo de um \<footer> são informações de autor e links relacionados.
+
+## \<nav>\</nav>
+Usada para representar uma seção com conjunto links de navegação, dentro do documento atual ou para outro documento.
 
 ## \<h1>-\<h6>
 Eles não foram criados na versão 5 do HTML e nem são específicos para semântica, mas servem para esse propósito. São utilizados para marcar a importância dos títulos, sendo \<h1> o mais importante e \<h6> o menos. Uma dica: use apenas um \<h1> por página, pois ele representa o objetivo da sua página. 
@@ -57,13 +60,33 @@ Eles não foram criados na versão 5 do HTML e nem são específicos para semân
 ---
 ---
 
-# ***Textos e links***
+# ***Textos***
 
-Textos
-## \<p>
+## \<p>\</p>
 Representa um parágrafo, mas ele não suporta apenas texto, podemos adicionar imagens, código, vídeos e vários outros tipos de conteúdo dentro dele.
 
-hyperlink
+***Formatação***
+
+## \<i>\</i>
+ Formata textos em itálico.
+
+## \<u>\</u>
+Formata texto em sublinhado.
+
+## \<br>\</br>
+Utilizadas para quebra de linha em um texto. É mais comum a utilização da tag fechada <./br> pois ela é suportada tanto em HTML quanto XHTML.
+
+## \<strong>\</strong>
+Tag utilizada para representar uma parte do texto que seja importante pois o texto fica em negrito no navegador web.
+
+## \<span>\</span>
+Utilizada para agrupar elementos para fins de estilo, porém só deve ser usado quando não houver outra alternativa de elemento semântico.
+
+---
+---
+---
+
+# ***hyperlink***
 
 ## \<a>
 Significa anchor/âncora, ele representa um hyperlink, é ele que interliga vários conteúdos e páginas na web. O elemento a tem vários atributos, mas vamos focar em dois, o href e o target.
@@ -87,3 +110,16 @@ Serve para criar lista ordenadas, nessas a ordem importa, portanto elas são rep
 
 ## \<li>
 É um item dentro de uma dessas listas. Um \<li> pode conter vários tipos de conteúdos, como parágrafos, imagens e até outras listas.
+
+---
+---
+---
+
+# Multimídia
+
+## \<img src="" alt="">
+permite inserir imagens na página web e não possui fechamento, contendo apenas atributos nela.     
+ ***src=""*** é onde fica o link da imagem.       
+ ***alt=""*** nome que aparecerá caso a imagem não carregue (é utilizado para descrever o conteúdo de uma imagem.)
+
+ 

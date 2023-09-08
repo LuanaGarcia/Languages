@@ -16,7 +16,7 @@ O 'a:hover' do exemplo significa que a âncora também terá essa aparência qua
 </section>
 
 <p align ="justify">
-ID: é representado pelo símbolo # (hash) seguido de um nome para esse ID.
+<strong>ID:</strong> é representado pelo símbolo # (hash) seguido de um nome para esse ID.
 
 Classe: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash.
 
