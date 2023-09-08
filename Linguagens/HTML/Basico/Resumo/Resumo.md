@@ -102,13 +102,13 @@ Serve para abrir nossos links em outra aba do navegador usando o valor _blank. (
 
 # ***Listas***
 Listas servem para agrupar uma coleção de itens, como uma lista de ingredientes ou, como será no nosso caso, uma lista com contatos.
-## \<ul>
+## \<ul>\</ul>
 Cria uma lista não ordenada, onde a ordem dos elementos não é importante, e é representada com pontos, círculos ou quadrados.
 
-## \<ol>
+## \<ol>\</ol>
 Serve para criar lista ordenadas, nessas a ordem importa, portanto elas são representadas com números, algarismos romanos ou letras.
 
-## \<li>
+## \<li>\</li>
 É um item dentro de uma dessas listas. Um \<li> pode conter vários tipos de conteúdos, como parágrafos, imagens e até outras listas.
 
 ---
@@ -122,4 +122,3 @@ permite inserir imagens na página web e não possui fechamento, contendo apenas
  ***src=""*** é onde fica o link da imagem.       
  ***alt=""*** nome que aparecerá caso a imagem não carregue (é utilizado para descrever o conteúdo de uma imagem.)
 
- 
