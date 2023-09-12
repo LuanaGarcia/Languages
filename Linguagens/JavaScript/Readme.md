@@ -1,4 +1,4 @@
-# DIO |  Formação JavaScrip básico
+# DIO | JavaScrip básico
 Repositório para armazenar resumos sobre o curso de JavaScript básico da [**Digital Inovation One**](https://www.cursoemvideo.com/).
 
 ## 📚 Documentação
